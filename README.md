@@ -1,3 +1,3 @@
 Hi there 👋,
 
-I'm Oana, an adventuros self-driven learner passioned on building things that matter.
+I'm Oana, an adventuros self-driven learner passioned to build things that matter.
