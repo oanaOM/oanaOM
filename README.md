@@ -5,5 +5,5 @@ I'm Oana, an adventuros self-driven learner dedicated to build things that matte
 # GitHub Stats
 
 <a href="https://github.com/oanaOM/oanaOM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oanaOM&hide=java&title_color=272b38&text_color=272b38&icon_color=2bbc8a&bg_color=F5F4F3&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oanaOM&hide=java&title_color=272b38&text_color=272b38&icon_color=2bbc8a&bg_color=ffffff&layout=compact" />
 </a>
