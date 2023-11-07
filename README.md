@@ -1,6 +1,6 @@
 # Hi there 👋,
 
-I'm Oana, an adventuros self-driven learner dedicated to build things that matter.
+I'm Oana, an adventuros self-driven learner dedicated to build impactful products.
 
 # GitHub Stats
 
