@@ -1,3 +1,1 @@
-Hey there,
-
-I'm a natively curious human, passionate about building things that bring people joy. I'm Oana 👋
+Natively curious human, passionate about building things that bring people joy. I'm Oana 👋
