@@ -1,9 +1,3 @@
-# Hi there 👋,
+Hey there,
 
-I'm Oana, an adventuros self-driven learner dedicated to build impactful products.
-
-# GitHub Stats
-
-<a href="https://github.com/oanaOM/oanaOM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oanaOM&hide=java&title_color=272b38&text_color=272b38&icon_color=2bbc8a&bg_color=ffffff&layout=compact" />
-</a>
+I'm a natively curious human, passionate about building things that bring people joy. I'm Oana 👋
